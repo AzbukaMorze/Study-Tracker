@@ -105,7 +105,8 @@ tr, td {
   align-items: end;
   gap: 40px;
 }
-.nav-button2{
+
+.nav-button2 {
   min-width: 48px;
   min-height: 48px;
 }
